@@ -1,4 +1,3 @@
-<img width="1046" height="306" alt="Снимок экрана 2026-06-02 102331" src="https://github.com/user-attachments/assets/80eaa0ea-1085-4262-8b24-a72773ad4b3d" />
 **Проект:** https://lazurit.com
 
 **Дата:** 02.06.2026 
