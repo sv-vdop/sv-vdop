@@ -14,8 +14,8 @@
 - Инструменты: DevTools, Jira и YouTrack, REST API через Postman, Swagger, Android Studio
 - Автоматизация: Уже сделал первые шаги в изучении Python.
 # Тестовая документация
-- [Тест-кейсы](Test_documentation/Test_case)
-- [Баг-репорты](Test_documentation/Bug_report) 
+- [Тест-кейсы](Test_documentation/Test_case.md)
+- [Баг-репорты](Test_documentation/Bug_report.md) 
 ## Контакты
 
 [![Telegram|71](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/justfindit)
