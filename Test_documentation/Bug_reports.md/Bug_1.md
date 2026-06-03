@@ -26,4 +26,4 @@
 
 **Ожидаемый результат:** Выводится причина почему файл не был загружен.  
 
-**Приложение:**
+**Приложение:** <img width="1046" height="306" alt="Bug_1" src="https://github.com/user-attachments/assets/a5a8676f-caad-4d70-a26d-194986d606cf" />
