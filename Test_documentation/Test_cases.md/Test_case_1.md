@@ -21,5 +21,5 @@
 
 **Ожидаемый результат:** Выводится причина почему файл не был загружен.
 
-**Комментарий:** [BUG 1](Test_documentation/Bug_1.md)
+**Комментарий:** [BUG 1](Test_documentation/Bug_reports.md/Bug_1.md)
 
