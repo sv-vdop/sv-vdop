@@ -23,4 +23,4 @@
 
 **Ожидаемый результат:** Есть пробел между "До" и стоимостью.
 
-**Приложение:** 
+**Приложение:**  <img width="489" height="389" alt="Bug_4" src="https://github.com/user-attachments/assets/eb4f7bfc-b267-4f14-a633-3779eface647" />
