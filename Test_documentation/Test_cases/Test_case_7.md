@@ -20,7 +20,6 @@
 
 **Ожидаемый результат:** Если применить все фильтры, то будут показываться все товары.
 
-**Комментарий:** [BUG 7](Test_documentation/Bug_7.md)
+**Комментарий:** ([BUG 7](../Bug_reports/Bug_7.md))
 
 
-https://lazurit.com/product/6394508/krovat-s-podemnym-mekhanizmom-lyusiya06/krovat-s-podemnym-mekhanizmom-lyusiya-160-06/
