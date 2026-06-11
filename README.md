@@ -44,7 +44,7 @@ E-mail: [spb@ph-sv.ru](mailto:spb@ph-sv.ru)
 - Написал 30 тест-кейсов на форму регистрации 
 - Нашёл и задокументировал 6 багов: от UX-проблем до ошибки 502 Bad Gateway при нагрузке на корзину
 
-[Тест-кейсы](Test_documentation/Test_case.md) · [Баг-репорты](Test_documentation/Bug_reports/)
+[Тест-кейсы](Test_documentation/Test_case.md) · [Баг-репорты](Test_documentation/Bug_reports/Readme_bugs.md)
 
 ---
 
