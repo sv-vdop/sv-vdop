@@ -145,5 +145,5 @@ Junior QA Engineer: ручное и API тестирование.
 
 - [Тест-кейсы](Test_documentation/Test_case.md)
 
-- [Баг-репорты](Test_documentation/Bug_reports/Readme_bugs.md)
+- [Баг-репорты](Test_documentation/Bug_reports/README_BUGS.md)
 
